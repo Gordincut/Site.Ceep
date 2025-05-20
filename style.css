@@ -11,7 +11,7 @@ body {
     }
     header {
 
-        background-color: #a200ff;
+        background-color: #007bff;
         padding: 20px;
         text-align: center;
         color: white;
@@ -55,15 +55,15 @@ body {
 
     section {
         bottom: 30px;
-        color: hwb(#a200ff);
+        color: hwb(#007bff);
         margin-bottom: 30px;
     }
 
     section h2{
         font-size: 1.8rem;
-        color: #a200ff;
+        color: #007bff;
         margin-bottom: 15px;
-        border-bottom: 2px solid #a200ff;
+        border-bottom: 2px solid #007bff;
         padding-bottom: 5px;
     }
 
@@ -87,7 +87,7 @@ body {
     }
 
     .form-container h2 {
-        color: #a200ff;
+        color: #007bff;
         margin-bottom: 20px;
     }
     form label {
@@ -105,7 +105,7 @@ body {
         box-sizing: border-box;
     }
     form button {
-        background-color: #a200ff;
+        background-color: #007bff;
         color:white;
         border: none;
         cursor: pointer;
@@ -115,7 +115,7 @@ body {
 
     }
     button:hover{
-        background-color: #a200ff;
+        background-color: #007bff;
     }
     
     footer{
